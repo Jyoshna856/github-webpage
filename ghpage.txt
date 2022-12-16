@@ -4,3 +4,5 @@ betafish
 neontetra
 catfish
 swordtail
+pineapple
+guppies
